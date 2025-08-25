@@ -1,0 +1,14 @@
+[
+    {
+        "path": "/gg",
+        "url": "https://google.com"
+    },
+    {
+        "path": "/yt",
+        "url": "https://youtube.com"
+    },
+    {
+        "path": "/fb",
+        "url": "https://facebook.com"
+    }
+]
